@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaTecnica.DL\PruebaTecnica.DL.csproj" />
+    <ProjectReference Include="..\PruebaTecnica.Entity\PruebaTecnica.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

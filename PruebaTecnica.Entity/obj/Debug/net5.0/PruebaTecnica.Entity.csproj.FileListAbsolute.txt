@@ -1,0 +1,15 @@
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.exe
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.deps.json
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.runtimeconfig.json
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.runtimeconfig.dev.json
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.dll
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\ref\PruebaTecnica.Entity.dll
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\bin\Debug\net5.0\PruebaTecnica.Entity.pdb
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.AssemblyInfoInputs.cache
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.AssemblyInfo.cs
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.dll
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\ref\PruebaTecnica.Entity.dll
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.pdb
+C:\Users\jeisson.bernal\source\repos\ApiPruebaTecnicaBeta\PruebaTecnica.Entity\obj\Debug\net5.0\PruebaTecnica.Entity.genruntimeconfig.cache

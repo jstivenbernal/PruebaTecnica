@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Productos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript" charset="utf-8" src="~/Scripts/Page/Producto.js"></script>
+<h2>Productos</h2>
+<section class="main--content">
+    <div class="panel">
+        <div class="container-fluid">
+            <br />
+            <div class="row">
+                <div class="col-9">
+                    <form class="form-inline">
+                        <input id="txtProducto" type="text" placeholder="Producto" class="form-control mb-2 mr-sm-2 mb-sm-0" />
+                        <button id="btnSearch" type="button" class="btn btn-default">Buscar</button> &nbsp;
+                        <button id="btnClear" type="button" class="btn btn-default">Limpiar</button>
+                    </form>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 10px">
+                <div class="col-12">
+                    <table id="gridProductos"></table>
+                </div>
+            </div>
+        </div>
+        <br />
+        <!-- Records List End -->
+    </div>
+</section>
+<script type="text/javascript">
+    $(document).ready(function () {
+        CargarProductos();
+    });
+</script>
